@@ -1,10 +1,10 @@
-<h1>Sayı Tahmin Oynu</h1>
+<h1>Number Guessing Game/h1>
 
 
 
 
 
-<p>Html,Css,Javascript,Sayi,Tahin,Oynu</p>
+<p>Number Guessing Game with HTML CSS Javascript</p>
 
 
 
